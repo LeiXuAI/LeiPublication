@@ -1,6 +1,6 @@
 # Saliency-based weighted Multi-label Linear Discriminant Analysis
 
-This is my first journal work for my PhD studying, which is about Multi-label classification tasks
+This is my first journal work for my PhD studying, which is about Multi-label classification tasks. Then I need more time to publish my code for this work.
 
 ## Getting Started
 
