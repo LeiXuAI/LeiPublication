@@ -1,80 +1,26 @@
 # Saliency-based weighted Multi-label Linear Discriminant Analysis
 
-This is my first journal work for my PhD studying, which is about Multi-label classification tasks. Then I need more time to publish my code for this work.
+This is my first journal work for my PhD studying, which is about Multi-label classification tasks. This work is based on the software pakeage ML-FE1.12 from [1]. 
 
 ## Getting Started
+This project is based on linear discrimiant analysis and a probabilistic saliency estimation model to build a novel method for multi-label classification tasks. The preprint paper is provided https://arxiv.org/abs/2004.04221
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Matlab
 
 ## Running the tests
+Run this code under as follow:
+./Validation/test_dataset.m
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+### Various methods
+Choose the transform type according to comments and your requirements
 
-Explain what these tests test and why
 
-```
-Give an example
-```
+## Reference
+[1] http://computer.njnu.edu.cn/Lab/LABIC/LABIC_Software.html
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -82,6 +28,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Remember to cite our paper and work [1], if you refer this work.
