@@ -10,3 +10,4 @@ Waiting for my publication! The target of this work has been changed to a journa
 # Reference Lists
 1. Data preprocessing: [LokLu/Tensorflow-data-loader] (https://github.com/LokLu/Tensorflow-data-loader.git)
 2. Baseline networks: [jaeminSon/V-GAN] (https://github.com/jaeminSon/V-GAN.git)
+                      [ChengBinJin/V-GAN-tensorflow] (https://github.com/ChengBinJin/V-GAN-tensorflow.git)
