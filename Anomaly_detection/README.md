@@ -8,6 +8,9 @@ Waiting for my publication! The target of this work has been changed to a journa
 
 
 # Reference Lists
-1. Data preprocessing: [LokLu/Tensorflow-data-loader] (https://github.com/LokLu/Tensorflow-data-loader.git)
-2. Baseline networks: [jaeminSon/V-GAN] (https://github.com/jaeminSon/V-GAN.git)
-                      [ChengBinJin/V-GAN-tensorflow] (https://github.com/ChengBinJin/V-GAN-tensorflow.git)
+1. Data preprocessing: [LokLu/Tensorflow-data-loader] (https://github.com/LokLu/Tensorflow-data-loader)
+2. Baseline networks: [jaeminSon/V-GAN] (https://github.com/jaeminSon/V-GAN)
+                      [ChengBinJin/V-GAN-tensorflow] (https://github.com/ChengBinJin/V-GAN-tensorflow)
+3. Competed works: [cuilimeng/CrackForest] (https://github.com/cuilimeng/CrackForest)
+                   [fyangneil/pavement-crack-detection] (https://github.com/fyangneil/pavement-crack-detection)
+                   [jaeminSon/V-GAN] (https://github.com/jaeminSon/V-GAN)
