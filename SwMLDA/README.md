@@ -32,13 +32,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Remember to cite our paper and work [1], if you refer this work.
 
 ## References
-
-{% @ARTICLE{9409780,
-  author={Xu, Lei and Raitoharju, Jenni and Iosifidis, Alexandros and Gabbouj, Moncef},
-  journal={IEEE Transactions on Cybernetics}, 
-  title={Saliency-Based Multilabel Linear Discriminant Analysis}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-14},
-  doi={10.1109/TCYB.2021.3069338}} %}
+<cite>L. Xu, J. Raitoharju, A. Iosifidis and M. Gabbouj, "Saliency-Based Multilabel Linear Discriminant Analysis," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3069338.</cite>
