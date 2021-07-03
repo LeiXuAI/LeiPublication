@@ -19,6 +19,9 @@ Run this code under as follow:
 Choose the transform type according to comments and your requirements
 
 
+## Notice
+The code of our work is based on the competed work 'A weighted linear discriminant analysis framework for multi-label feature extraction'.
+
 ## Reference
 [1] The competed and backbone work of our publication is provided as [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0925231217308159) and
 [Code link](http://ceai.njnu.edu.cn/Lab/LABIC/LABIC_Software.html)
