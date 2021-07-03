@@ -4,7 +4,7 @@ This is my first journal work for my PhD studying, which is about Multi-label cl
 
 ## Getting Started
 This project is based on linear discrimiant analysis and a probabilistic saliency estimation model to build a novel framework for multi-label classification tasks. The framework can be utilized by various prior information of input data. Due to the calculation of weight factors is based on each class, the framework can allievate the imbalance problems existing in multi-label datasets. 
-The paper was published in IEEE Transactions on Cybernetics as: https://ieeexplore.ieee.org/abstract/document/9409780
+The paper was published in IEEE Transactions on Cybernetics as: [Paper](https://ieeexplore.ieee.org/abstract/document/9409780)
 
 
 ### Prerequisites
@@ -20,8 +20,7 @@ Choose the transform type according to comments and your requirements
 
 
 ## Reference
-[1] http://computer.njnu.edu.cn/Lab/LABIC/LABIC_Software.html
-
+[1] [Baseline work link](http://ceai.njnu.edu.cn/Lab/LABIC/LABIC_Software.html)
 
 ## License
 
