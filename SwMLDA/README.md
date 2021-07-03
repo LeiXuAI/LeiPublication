@@ -20,7 +20,8 @@ Choose the transform type according to comments and your requirements
 
 
 ## Reference
-[1] [Baseline work link](http://ceai.njnu.edu.cn/Lab/LABIC/LABIC_Software.html)
+[1] The competed and backbone work of our publication is provided as [paper link](https://www.sciencedirect.com/science/article/abs/pii/S0925231217308159) 
+[code link](http://ceai.njnu.edu.cn/Lab/LABIC/LABIC_Software.html)
 
 ## License
 
