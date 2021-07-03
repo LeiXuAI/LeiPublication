@@ -30,6 +30,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 Remember to cite our paper and work [1], if you refer this work.
+
+## References
 @ARTICLE{9409780,
   author={Xu, Lei and Raitoharju, Jenni and Iosifidis, Alexandros and Gabbouj, Moncef},
   journal={IEEE Transactions on Cybernetics}, 
