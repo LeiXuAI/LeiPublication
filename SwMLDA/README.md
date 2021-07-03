@@ -29,7 +29,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-Remember to cite our paper and work [1], if you refer this work.
+Remember to cite our paper and work [1], if you would refer this work.
 
 ## References
 <cite>L. Xu, J. Raitoharju, A. Iosifidis and M. Gabbouj, "Saliency-Based Multilabel Linear Discriminant Analysis," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3069338.</cite>
