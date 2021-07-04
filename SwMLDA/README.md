@@ -36,5 +36,14 @@ Remember to cite our paper and work [1], if you would refer this work.
 
 ## References
 <cite>L. Xu, J. Raitoharju, A. Iosifidis and M. Gabbouj, "Saliency-Based Multilabel Linear Discriminant Analysis," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3069338.</cite>
+'''
+@InProceedings{Xian_2020_CVPR,
+author = {Xian, Ke and Zhang, Jianming and Wang, Oliver and Mai, Long and Lin, Zhe and Cao, Zhiguo},
+title = {Structure-Guided Ranking Loss for Single Image Depth Prediction},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
 
+'''
 
