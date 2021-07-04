@@ -37,17 +37,4 @@ Remember to cite our paper and work [1], if you would refer this work.
 ## References
 <cite>L. Xu, J. Raitoharju, A. Iosifidis and M. Gabbouj, "Saliency-Based Multilabel Linear Discriminant Analysis," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3069338.</cite>
 
-<h1 id='references'>References</h1>
 
-<p>Flanagan, D., &#38; Matsumoto, Y. (2008). <i>The Ruby Programming Language</i>. O&#8217;Reilly Media.</p>
-
-
-<cite>@ARTICLE{9409780,<br>
-  author={Xu, Lei and Raitoharju, Jenni and Iosifidis, Alexandros and Gabbouj, Moncef},<br>
-  journal={IEEE Transactions on Cybernetics}, <br>
-  title={Saliency-Based Multilabel Linear Discriminant Analysis}, <br>
-  year={2021},<br>
-  volume={},<br>
-  number={},<br>
-  pages={1-14},<br>
-  doi={10.1109/TCYB.2021.3069338}}</cite>
